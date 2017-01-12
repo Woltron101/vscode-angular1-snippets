@@ -3,10 +3,11 @@ Angular 1.x snippets for Visual Studio Code using John Papa AngularJS style guid
 
 ## Snippets
 ```javascript
-  ngcomponent  // Angular Component (Angular 1.5 and above)
+  ngmodule  // Angular Module
   ngconfig     // Angular Config
   ngconstant   // Angular Constant
   ngcontroller // Angular Controller
+  ngcontrollerscope // Angular Controller using $scope
   ngdirective  // Angular Directive
   ngfactory    // Angular Factory
   ngfilter     // Angular Filter
@@ -14,9 +15,11 @@ Angular 1.x snippets for Visual Studio Code using John Papa AngularJS style guid
   ngprovider   // Angular provider
   ngrun        // Angular Run
   ngservice    // Angular Service
+  ngconfig    // Angular Config
 ```
 ## How to Install
-Coming soon...
+Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter:
+ext install angular1-code-snippets-johnpapastyle
 
 ## Contribute
 Feel like something is missing? 
