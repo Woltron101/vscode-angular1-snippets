@@ -16,6 +16,7 @@ Angular 1.x snippets for Visual Studio Code using John Papa AngularJS style guid
   ngrun        // Angular Run
   ngservice    // Angular Service
   ngconfig    // Angular Config
+  ngdecorator    // Angular Decorator
 ```
 ## How to Install
 Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter:
